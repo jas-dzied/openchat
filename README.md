@@ -8,6 +8,6 @@ open-source chatting app
 
 `chatroom` contains the code for a self-hosted lobby, which you can run by itself if you want. Usage:
 
-    `chatroom [server name] [server ip]`
+    chatroom [server name] [server ip]
 
 `client` contains client side code, run this for pog
