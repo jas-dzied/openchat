@@ -1,0 +1,9 @@
+[submodule "chatroom"]
+	path = chatroom
+	url = https://github.com/jas-dzied/openchat-chatroom.git
+[submodule "client"]
+	path = client
+	url = https://github.com/jas-dzied/openchat-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/jas-dzied/openchat-server.git
